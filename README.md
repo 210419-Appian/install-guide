@@ -18,7 +18,7 @@ The following technologies are required in order to complete this phase of the p
 - **DBeaver**: DBeaver is a free, open source universal database tool that is compatible with several external data sources. We'll use DBeaver in order to modify our databases (which will be hosted on AWS) and persist data using a simple user interface provided to us by the tool.
 - **Apache Tomcat 9**: During this program, we will explore web development. As a result, we'll need a runtime environment for our web applications. Apache Tomcat provides a web server environment in which we can run our Java code so that we can easily and quickly deploy our web applications.
 - **Visual Studio Code**: Visual Studio Code is a text editor that makes viewing and modifying code simple. Do not confuse this tool with an integrated development environment as it does not come equipped with all of the development tools you typically find in an IDE.  
-- **Postman  (Optional)**: Postman is used for testing RESTful APIs. We'll use it to set up collections of tests for the RESTful APIs we design throughout the program. It can also be used to quickly test a single endpoint.
+- **Postman**: Postman is used for testing RESTful APIs. We'll use it to set up collections of tests for the RESTful APIs we design throughout the program. It can also be used to quickly test a single endpoint.
 
 
 ## Installation Methods
